@@ -2,7 +2,7 @@
 
 class Program{
 
-    public static void cookie(int i){
+    public static void cookie(int i){ //kuşumun ismi cookie d:
         if(i>0){
             Console.WriteLine("Your number is positive.");
         }
