@@ -1,0 +1,15 @@
+C:\Users\furky\Desktop\Life\Kosullu-ifadeler-if-else-\bin\Debug\net9.0\Kosullu-ifadeler-if-else-.exe
+C:\Users\furky\Desktop\Life\Kosullu-ifadeler-if-else-\bin\Debug\net9.0\Kosullu-ifadeler-if-else-.deps.json
+C:\Users\furky\Desktop\Life\Kosullu-ifadeler-if-else-\bin\Debug\net9.0\Kosullu-ifadeler-if-else-.runtimeconfig.json
+C:\Users\furky\Desktop\Life\Kosullu-ifadeler-if-else-\bin\Debug\net9.0\Kosullu-ifadeler-if-else-.dll
+C:\Users\furky\Desktop\Life\Kosullu-ifadeler-if-else-\bin\Debug\net9.0\Kosullu-ifadeler-if-else-.pdb
+C:\Users\furky\Desktop\Life\Kosullu-ifadeler-if-else-\obj\Debug\net9.0\Kosullu-ifadeler-if-else-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furky\Desktop\Life\Kosullu-ifadeler-if-else-\obj\Debug\net9.0\Kosullu-ifadeler-if-else-.AssemblyInfoInputs.cache
+C:\Users\furky\Desktop\Life\Kosullu-ifadeler-if-else-\obj\Debug\net9.0\Kosullu-ifadeler-if-else-.AssemblyInfo.cs
+C:\Users\furky\Desktop\Life\Kosullu-ifadeler-if-else-\obj\Debug\net9.0\Kosullu-ifadeler-if-else-.csproj.CoreCompileInputs.cache
+C:\Users\furky\Desktop\Life\Kosullu-ifadeler-if-else-\obj\Debug\net9.0\Kosullu-ifadeler-if-else-.sourcelink.json
+C:\Users\furky\Desktop\Life\Kosullu-ifadeler-if-else-\obj\Debug\net9.0\Kosullu-ifadeler-if-else-.dll
+C:\Users\furky\Desktop\Life\Kosullu-ifadeler-if-else-\obj\Debug\net9.0\refint\Kosullu-ifadeler-if-else-.dll
+C:\Users\furky\Desktop\Life\Kosullu-ifadeler-if-else-\obj\Debug\net9.0\Kosullu-ifadeler-if-else-.pdb
+C:\Users\furky\Desktop\Life\Kosullu-ifadeler-if-else-\obj\Debug\net9.0\Kosullu-ifadeler-if-else-.genruntimeconfig.cache
+C:\Users\furky\Desktop\Life\Kosullu-ifadeler-if-else-\obj\Debug\net9.0\ref\Kosullu-ifadeler-if-else-.dll
